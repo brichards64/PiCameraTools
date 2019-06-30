@@ -1,17 +1,17 @@
-# Scheduler
+# CameraReceive
 
-Scheduler
+CameraReceive
 
 ## Data
 
-Describe any data formats Scheduler creates, destroys, changes, analyzes, or its usage.
+Describe any data formats CameraReceive creates, destroys, changes, analyzes, or its usage.
 
 
 
 
 ## Configuration
 
-Describe any configuration variables for Scheduler.
+Describe any configuration variables for CameraReceive.
 
 ```
 param1 value1
